@@ -1,12 +1,12 @@
 # Predicting Predicting Employee Turnover at Salifort Motors
 
 ## Overview
-The goal of this project is to analyze employee turnover at Salifort Motors to identify key drivers of attrition and build predictive models to determine which employees are likely to leave the company.
-This project utilized data collected by HR department that inform employees data related, including satisfaction level, number of project, tenure, work accident, left status, promotion status, and salary.
-The final logistic regression successfully identified the key factors influencing employee attrition and achieved a decent accuracy of 82% in predicting employee retention. 
+The objective of this project is to analyze employee turnover at Salifort Motors by identifying the key factors contributing to attrition and developing predictive models to determine the likelihood of employees leaving the organization.
+This analysis utilized HR department data encompassing various employee-related metrics
+The final logistic regression model effectively highlighted the primary drivers of employee turnover and achieved a commendable accuracy of 82% in predicting employee retention.
 
 ## Business Understanding
-According to HR dataset, 83% employee left the company.
-It is important to understand what factors encourage employee left the company in order to create employee retention strategy.
+According to the HR dataset, 83% of employees have left the company.
+Understanding the factors that contribute to employee attrition is crucial for developing an effective employee retention strategy.
 
 ## Data Understanding
