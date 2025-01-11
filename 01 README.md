@@ -1,4 +1,4 @@
-# Predicting Predicting Employee Turnover at Salifort Motors
+# Predicting Employee Turnover at Salifort Motors
 
 ## Overview
 The objective of this project is to analyze employee turnover at Salifort Motors by identifying the key factors contributing to attrition and developing predictive models to determine the likelihood of employees leaving the organization.
@@ -28,3 +28,15 @@ Since logistic regression is highly sensitive to outliers, it is essential to ad
 <img width="442" alt="image" src="https://github.com/user-attachments/assets/963dc352-84a2-44c0-87e2-2f043251fdce" />
 <img width="370" alt="image" src="https://github.com/user-attachments/assets/b8e4e5cc-e134-4b9e-a815-9abf534856c4" />
 
+## Conclusion
+Based on the model's insights, the company can undertake several initiatives to reduce employee attrition:
+- Increase efforts to boosts employee satisfaction through initiatives like regular feedback mech- anisms, career development opportunities, and work-life balance program.
+- Implement clearer career progression paths, promote internal opportunities, and recognize high performers.
+- Ensure that project workloads are balanced and manageable.
+- Regularly assess performance review process and explore how performance feedback impacts employee engagement.
+
+There several things can be done to improve model's performance in the future:
+- Experiment with advanced algorithms such as Random Forest, Gradient Boosting, or XG-Boost.
+- Gather additional features, such as job roles, manager relationships, or exit interview insights to enrich the dataset.
+- Use the insights from the model to create attrition risk dashboard, highlighting high-risk employees.
+- Retrain the model periodically with updated data to capture changes in employee behaviour.
