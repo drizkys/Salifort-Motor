@@ -31,6 +31,3 @@ The boxplot below highlights the presence of outliers in certain features.
 Since logistic regression is highly sensitive to outliers, it is essential to address and remove them to ensure the development of a robust and accurate model.
 
 <img width="477" alt="image" src="https://github.com/user-attachments/assets/db435fb0-da4a-47c5-83c7-d6d17fa9b709" />
-<img width="477" alt="image" src="https://github.com/user-attachments/assets/fa368108-3194-4c20-916a-20a02d90ff1b" />
-<img width="477" alt="image" src="https://github.com/user-attachments/assets/457f29c5-c90f-4f15-999c-9621d9d954e2" />
-<img width="477" alt="image" src="https://github.com/user-attachments/assets/02fc9656-185d-44fe-90c0-7e4e8c981b06" />
