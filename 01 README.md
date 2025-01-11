@@ -10,3 +10,6 @@ According to the HR dataset, 83% of employees have left the company.
 Understanding the factors that contribute to employee attrition is crucial for developing an effective employee retention strategy.
 
 ## Data Understanding
+HR data represents self-reported information from employees.
+The dataset contains 14.999 different employee’s self-reported information and 10 features.
+The features included information on satisfaction level, evaluation score, number of project, average working hours per month, tenure, work accident status, left status, promotion status, department, and salary.
