@@ -10,9 +10,10 @@ According to the HR dataset, 83% of employees have left the company.
 Understanding the factors that contribute to employee attrition is crucial for developing an effective employee retention strategy.
 
 ## Data Understanding
-HR data represents self-reported information from employees.
-The dataset contains 14.999 different employee’s self-reported information and 10 features.
-The features included information on satisfaction level, evaluation score, number of project, average working hours per month, tenure, work accident status, left status, promotion status, department, and salary.
+The HR dataset comprises self-reported information provided by employees.
+It contains data from 14,999 unique employees and includes 10 features.
+These features encompass details such as satisfaction levels, performance evaluation scores, number of projects undertaken, average monthly working hours, tenure, work accident status, attrition status, promotion history, department, and salary.
+
 | Fearures | Description |
 |-------------|-------------|
 | satisfaction_level | The employee’s self-reported satisfaction level [0-1] |
@@ -25,3 +26,11 @@ The features included information on satisfaction level, evaluation score, numbe
 | promotion_last_5years | Whether or not the employee was promoted in the last 5 years |
 | department | The employee's department |
 | salary | The employee's salary (low, medium, or high) |
+
+The boxplot below highlights the presence of outliers in certain features.
+Since logistic regression is highly sensitive to outliers, it is essential to address and remove them to ensure the development of a robust and accurate model.
+
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/db435fb0-da4a-47c5-83c7-d6d17fa9b709" />
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/fa368108-3194-4c20-916a-20a02d90ff1b" />
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/457f29c5-c90f-4f15-999c-9621d9d954e2" />
+<img width="477" alt="image" src="https://github.com/user-attachments/assets/02fc9656-185d-44fe-90c0-7e4e8c981b06" />
