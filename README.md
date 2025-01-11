@@ -7,4 +7,6 @@ The final logistic regression successfully identified the key factors influencin
 
 ## Business Understanding
 According to HR dataset, 83% employee left the company.
-It is important to understand what factors encourage employee left the company in order to create employee retention strategy
+It is important to understand what factors encourage employee left the company in order to create employee retention strategy.
+
+## Data Understanding
