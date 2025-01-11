@@ -6,3 +6,5 @@ This project utilized data collected by HR department that inform employees data
 The final logistic regression successfully identified the key factors influencing employee attrition and achieved a decent accuracy of 82% in predicting employee retention. 
 
 ## Business Understanding
+According to HR dataset, 83% employee left the company.
+It is important to understand what factors encourage employee left the company in order to create employee retention strategy
